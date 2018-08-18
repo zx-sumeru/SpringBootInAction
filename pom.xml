@@ -13,6 +13,8 @@
         <module>parent</module>
         <module>ch3</module>
         <module>ch4_MVC</module>
+        <module>spring-boot-starter-hello</module>
+        <module>ch6_5</module>
     </modules>
 
     <properties>

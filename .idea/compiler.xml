@@ -10,6 +10,11 @@
         <module name="ch3" />
         <module name="ch4_MVC" />
         <module name="ch5" />
+        <module name="ch6_5" />
+        <module name="ch7" />
+        <module name="ch85_cache" />
+        <module name="ch8_4" />
+        <module name="hello" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +22,11 @@
       <module name="ch3" target="1.8" />
       <module name="ch4_MVC" target="1.8" />
       <module name="ch5" target="1.8" />
+      <module name="ch6_5" target="1.8" />
+      <module name="ch7" target="1.8" />
+      <module name="ch85_cache" target="1.8" />
+      <module name="ch8_4" target="1.8" />
+      <module name="hello" target="1.8" />
       <module name="parent" target="1.8" />
       <module name="SpringBootInAction" target="1.8" />
     </bytecodeTargetLevel>
