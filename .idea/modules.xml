@@ -12,7 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/ch85_cache/ch85_cache.iml" filepath="$PROJECT_DIR$/ch85_cache/ch85_cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch8_4/ch8_4.iml" filepath="$PROJECT_DIR$/ch8_4/ch8_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-starter-hello/hello.iml" filepath="$PROJECT_DIR$/spring-boot-starter-hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongodemo/mongodemo.iml" filepath="$PROJECT_DIR$/mongodemo/mongodemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/parent/parent.iml" filepath="$PROJECT_DIR$/parent/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redisdemo/redisdemo.iml" filepath="$PROJECT_DIR$/redisdemo/redisdemo.iml" />
     </modules>
   </component>
 </project>
