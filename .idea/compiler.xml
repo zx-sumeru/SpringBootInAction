@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="activemqpub" />
         <module name="ch2" />
         <module name="ch3" />
         <module name="ch4_MVC" />
@@ -14,12 +15,17 @@
         <module name="ch7" />
         <module name="ch85_cache" />
         <module name="ch8_4" />
+        <module name="ch9" />
+        <module name="ch9_4" />
+        <module name="ch9springbatch" />
         <module name="hello" />
         <module name="mongodemo" />
+        <module name="rabbitmq" />
         <module name="redisdemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="activemqpub" target="1.8" />
       <module name="ch2" target="1.8" />
       <module name="ch3" target="1.8" />
       <module name="ch4_MVC" target="1.8" />
@@ -28,9 +34,16 @@
       <module name="ch7" target="1.8" />
       <module name="ch85_cache" target="1.8" />
       <module name="ch8_4" target="1.8" />
+      <module name="ch9" target="1.8" />
+      <module name="ch9_4" target="1.8" />
+      <module name="ch9springbatch" target="1.8" />
       <module name="hello" target="1.8" />
+      <module name="jmspub" target="1.8" />
       <module name="mongodemo" target="1.8" />
+      <module name="mq_demo" target="1.8" />
+      <module name="mqdemo" target="1.8" />
       <module name="parent" target="1.8" />
+      <module name="rabbitmq" target="1.8" />
       <module name="redisdemo" target="1.8" />
       <module name="SpringBootInAction" target="1.8" />
     </bytecodeTargetLevel>

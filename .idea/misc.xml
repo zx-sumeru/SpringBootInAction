@@ -13,7 +13,16 @@
         <option value="$PROJECT_DIR$/ch85_cache/pom.xml" />
         <option value="$PROJECT_DIR$/mongodemo/pom.xml" />
         <option value="$PROJECT_DIR$/redisdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/ch9/pom.xml" />
+        <option value="$PROJECT_DIR$/ch9springbatch/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/ch9_4/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/mq_demo/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="jdk1.8" project-jdk-type="JavaSDK" />
